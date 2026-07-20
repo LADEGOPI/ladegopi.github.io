@@ -2,7 +2,7 @@
 
 ## System Engineer | Network Administrator | AWS Cloud Enthusiast
 
-Experienced System & Network Engineer with 10+ years of expertise in IT Infrastructure, Networking, Windows Server Administration, Desktop Support, and Enterprise IT Operations.
+Experienced System & Network Engineer with 8+ years of expertise in IT Infrastructure, Networking, Windows Server Administration, Desktop Support, and Enterprise IT Operations.
 
 Currently expanding expertise in AWS Cloud Technologies through hands-on projects, AWS Training programs, and continuous learning.
 
