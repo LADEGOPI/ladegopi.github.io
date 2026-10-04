@@ -10,7 +10,7 @@ Currently expanding expertise in AWS Cloud Technologies through hands-on project
 
 ## Professional Highlights
 
-- 10+ Years Experience in IT Infrastructure & Networking
+- 8+ Years Experience in IT Infrastructure & Networking
 - Windows Server Administration
 - Enterprise IT Operations & Support
 - AWS Cloud Projects & Learning
