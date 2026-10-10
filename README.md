@@ -40,7 +40,7 @@ Certificate PDFs: [certificates folder](./certificates/)
 - DynamoDB Practice
 - Amazon S3 Static Website
 - Amazon RDS Database Setup
-- Temple Seva Booking System: https://github.com/ladegopi/temple-seva-booking-system
+- Temple Seva Booking System
 
 ## Contact
 
